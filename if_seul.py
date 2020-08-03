@@ -1,0 +1,2 @@
+if cond:
+    print("Vrai")
